@@ -120,7 +120,7 @@ dependencies {
     compileOnly "net.milkbowl.vault:VaultAPI:1.7"
     compileOnly "us.dynmap:dynmap-api:3.0-SNAPSHOT"
     compileOnly "com.github.lucko:luckperms:v5.2"
-    //compileOnly "com.github.slimefun:slimefun4:master-SNAPSHOT"
+    compileOnly "com.github.slimefun:slimefun4:master-SNAPSHOT"
     //compileOnly "com.github.thebusybiscuit:cs-corelib:master-SNAPSHOT"
     // Libs
     compileOnly "aopalliance:aopalliance:1.0"
